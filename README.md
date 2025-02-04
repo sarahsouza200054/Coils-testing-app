@@ -1,1 +1,1 @@
-# Coils-testing-app
+# COIL TESTING APP
